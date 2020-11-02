@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="831338f5-c030-4cca-b023-c1edc33f2c5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4cJ9rr8hQg3XG381mLuorFlJy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="E:/JAVA包/mysql-connector-java-5.1.46.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\水果超市管理器3.0\library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main_GUI_SQL">
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.TCPClient" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.TCPServer" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_GUI_SQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="supermarket.main_GUI_SQL" />
+      <module name="水果超市管理器3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="supermarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.text2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text_inf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text1.text_inf" />
+      <module name="1821540210liuweiyi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-5.1.46(1).jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/library/mysql-connector-java-5.1.46(1).jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main_GUI_SQL" />
+        <item itemvalue="Application.text_inf" />
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.text2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="831338f5-c030-4cca-b023-c1edc33f2c5a" name="Default Changelist" comment="" />
+      <created>1587894731423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587894731423</updated>
+      <workItem from="1587894740074" duration="37000" />
+      <workItem from="1589552958290" duration="31000" />
+      <workItem from="1589597369852" duration="341000" />
+      <workItem from="1589598981677" duration="4357000" />
+      <workItem from="1589634333424" duration="638000" />
+      <workItem from="1589635598748" duration="8106000" />
+      <workItem from="1589701792762" duration="9985000" />
+      <workItem from="1589720705916" duration="8601000" />
+      <workItem from="1589775260231" duration="385000" />
+      <workItem from="1589778785579" duration="712000" />
+      <workItem from="1589784550382" duration="5439000" />
+      <workItem from="1589855727089" duration="495000" />
+      <workItem from="1589965550285" duration="1037000" />
+      <workItem from="1589977178715" duration="91000" />
+      <workItem from="1589978105227" duration="2691000" />
+      <workItem from="1589984065548" duration="2756000" />
+      <workItem from="1589987538632" duration="3289000" />
+      <workItem from="1590023648749" duration="8170000" />
+      <workItem from="1590214044226" duration="2053000" />
+      <workItem from="1590249582405" duration="256000" />
+      <workItem from="1590288588237" duration="1143000" />
+      <workItem from="1590331697126" duration="2776000" />
+      <workItem from="1590369511449" duration="770000" />
+      <workItem from="1590552555683" duration="3700000" />
+      <workItem from="1590562957942" duration="8391000" />
+      <workItem from="1590579048157" duration="4624000" />
+      <workItem from="1590630392670" duration="2999000" />
+      <workItem from="1590745916442" duration="125000" />
+      <workItem from="1590765040742" duration="266000" />
+      <workItem from="1590767046506" duration="733000" />
+      <workItem from="1590932615480" duration="4846000" />
+      <workItem from="1590998212629" duration="1584000" />
+      <workItem from="1591002495972" duration="507000" />
+      <workItem from="1591014771001" duration="1687000" />
+      <workItem from="1595833651096" duration="29000" />
+      <workItem from="1596449848338" duration="205000" />
+      <workItem from="1604308580348" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="185" key="FileChooserDialogImpl" timestamp="1595833671183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="185" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595833671183" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1604308704630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604308704630" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1604308704630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604308704630" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1604308704630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604308704630" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1604308704630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604308704630" />
+    <state x="178" y="0" key="new project wizard" timestamp="1595833679872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595833679872" />
+  </component>
+</project>
